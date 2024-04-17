@@ -14,4 +14,3 @@ logging.basicConfig(filename=LOG_FILE_PATH,
                     format= '[%(asctime)s] %(lineno)d %(levelname)s %(name)s %(message)s'
 )
 
-logging.info("Testing the logger.")
